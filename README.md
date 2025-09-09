@@ -1,4 +1,4 @@
-Webscraping project – with data cleaning and visualization
+# Webscraping project – with data cleaning and visualization
 
 This personal project is made to learn how football data can be scraped from the web and prepared for analysis. I scraped **Fenerbahçe / Süper Lig** data from Wikipedia, cleaned the tables with **pandas**, and visualized the results in **Tableau**.
 
