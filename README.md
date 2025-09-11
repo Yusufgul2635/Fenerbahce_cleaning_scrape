@@ -12,7 +12,7 @@ The following three images are respectively:
 3) **An interactive dashboard** (Tableau) showing the same data with filters.
 
 ![Points by Team](imagefolder/pts_by_team.png)
-![Cleaned subset](imagefolder/superlig_standings_clean_head.png)
+![Cleaned subset](imagefolder/scatter_plot.png)
 ![Interactive dashboard](gifs/dashboard.gif)
 
 _Reproduce:_ run the notebook(s) in `Webscraping project/` (or `notebooks/`) to scrape and clean, which will save the CSVs in `data/processed/`. Then open the CSVs in Tableau to build the visuals.
